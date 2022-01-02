@@ -30,6 +30,7 @@ body.snow {
     background-image: url(https://th-thumbnailer.cdn-si-edu.com/V8ahPc5OXXqW_cVuB3X5zsqBFKM=/fit-in/1600x0/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/43/0c/430ce021-3089-415f-bb2d-340465beed4e/2204449610_6a0aa9d569_o.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
 }
 
 body.snow #greeting {
